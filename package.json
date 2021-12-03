@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "app to generate a professional REAMDE.md",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranSkitzo/readme-generator.git"
+  },
+  "keywords": [
+    "README.md"
+  ],
+  "author": "John Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranSkitzo/readme-generator/issues"
+  },
+  "homepage": "https://github.com/FranSkitzo/readme-generator#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "inquirer": "^8.2.0"
+  }
+}
